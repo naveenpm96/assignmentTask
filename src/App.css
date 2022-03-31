@@ -1,0 +1,13 @@
+.movies
+{
+    display: flex;
+    justify-content: space-evenly;   
+}
+.movies img
+{
+    margin-left: 5px;
+}
+.movies img:hover
+{
+    transform: scale(1.1);
+}

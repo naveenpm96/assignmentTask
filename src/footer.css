@@ -1,0 +1,167 @@
+.footer
+{
+    position: absolute;
+    top: 210%;
+    left: 0%;
+    background-color:#404040;
+    width: 100%;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    justify-content: space-evenly;
+
+}
+
+.contents
+{
+    position: absolute;
+    top: 0%;
+    left: 5%;
+    width: 900px;
+    height: 250px;
+    display: flex;
+}
+.aboutus
+{
+    position: absolute;
+    height: 120px;
+    width: 97px;
+    left: 50px;
+    top: 50px;
+    border-radius: null;
+    color: white;
+}
+.aboutus ul li
+{
+    list-style: none;
+    
+}
+
+
+.customerservice
+{
+    position: absolute;
+    height: 120px;
+    width: 97px;
+    left: 300px;
+    top: 50px;
+    border-radius: nullpx;
+    color: white;
+    
+}
+.customerservice ul li
+{
+    text-decoration: none;
+    width: 230px;
+    list-style: none;
+
+}
+
+.ourstores
+{
+    position: absolute;
+    height: 120px;
+    width: 97px;
+    left: 600px;
+    top: 50px;
+    border-radius: nullpx;
+    color: white;
+    
+}
+.ourstores ul li
+{
+    list-style: none;
+    width: 200px;
+}
+
+.searchbar
+{
+    color:white;
+    position: absolute;
+    top: 50px;
+    right: 80px;
+}
+.searchbar p{
+    font-family: Segoe UI;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.searchbar input
+{
+    height: 35px;
+    width: 200px;
+    right: 20px;
+    top: 1581px;
+    border: none;
+    border-radius: 0px;
+}
+.searchbar button
+{
+    height: 35px;
+    width: 80px;
+    right: 18px;
+    top: 1581px;
+    border: none;
+    background-color: #4978E8;
+}
+
+.support
+{
+    position: absolute;
+    top: 190px;
+    left:105px;
+}
+.supporttext
+{
+    position: absolute;
+    top: 190px;
+    left:130px;
+    color: white;
+}
+.location img
+{
+    position: absolute;
+    top: 195px;
+    left:650px;
+}
+.location p
+{
+    position: absolute;
+    top: 190px;
+    left:680px;
+    color: white;
+}
+.copyrt
+{
+    background: #000;
+    position: absolute;
+    top: 250px;
+    width: 100%;
+    height: 40px;
+    color: white;
+    text-align: center;   
+}
+.fb
+{
+    position: absolute;
+    top: 200px;
+    right: 250px;
+}
+.play
+{
+    position: absolute;
+    top: 200px;
+    right: 200px;
+}
+.linkedin
+{
+    position: absolute;
+    top: 200px;
+    right: 150px;
+
+}
